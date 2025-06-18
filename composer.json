@@ -7,6 +7,8 @@
         "barryvdh/laravel-ide-helper": "v3.5.5",
         "illuminate/filesystem": "v12.18.0",
         "illuminate/container": "v12.18.0",
+        "illuminate/config": "v12.18.0",
+        "illuminate/view": "v12.18.0",
         "doctrine/dbal": "4.2.4"
     },
     "require-dev": {
